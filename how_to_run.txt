@@ -1,0 +1,4 @@
+-alg <SA/TABU> -time <cutoff_in_seconds> -seed <random_seed>
+i.e.
+
+$python3 parser.py -inst ./input/ulysses22.tsp -alg SA -time 100 -seed 37
